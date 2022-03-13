@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cached pages
+pagecache/
+*.txt
+
+.DS_Store
